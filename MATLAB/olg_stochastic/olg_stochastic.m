@@ -427,5 +427,6 @@ set(gca,'Fontsize',16)
 %saveas(gcf,'fig_olg2_s.eps','epsc2')
 
 
+save('fig_6_3.mat');
 
 

@@ -8,7 +8,7 @@
 
 clc; close all; clear all;
 
-ind_TR=4;
+ind_TR=3;
     % =1 COMPUTE INITIAL/FINAL SS
     % =2 COMPUTE TRANSITION STARTING WITH GENERIC INITIAL GUESS (AFTER 1)
     % =3 COMPUTE TRANSITION STARTING WITH SAVED INITIAL GUESS (AFTER 2)
@@ -776,5 +776,3 @@ elseif ind_TR==5
     set(gcf,'color','w')
 
 end
-
-
