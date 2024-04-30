@@ -1,13 +1,14 @@
-# 連載第 7 回(12・1 月号)：世代重複モデル
+# 北尾早霧・砂川武貴・山田知明『定量的マクロ経済学と数値計算』日本評論社
 
-連載で取り扱う世代重複モデルの均衡を計算するファイル
+## 第6章：ライフサイクルで考えるマクロ経済 世代重複モデル
 
-- MATLAB: `olg.m`, `policyA.m`
+### MATLAB
 
-- Julia: `olg.jl`, `policyA.jl`, `params.jl`, `mod_chap7.jl`, `chap7.ipynb`
+- `olg.m`, `policyA.m`
 
-_注意_
+### Julia
+- `olg.jl`, `policyA.jl`, `params.jl`, `mod_chap7.jl`, `chap7.ipynb`
 
-MATLAB については北尾早霧が作成しています。
-
-Julia については鈴木徳馬が作成しています。
+### 注意
+- MATLABについては北尾早霧が作成しています。
+- JuliaについてはRAだった鈴木徳馬さんが作成しています。
