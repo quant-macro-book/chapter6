@@ -88,6 +88,8 @@ maxJ=19+Nj;
 
 norm=c(1);
 
+save('fig_6_1.mat');
+
 figure('Name','Asset')
 plot(ageA,a/norm,'LineWidth',3)
 %title('Asset : a_{j}')
